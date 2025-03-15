@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.font{
+    font-family: "Work Sans";
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
